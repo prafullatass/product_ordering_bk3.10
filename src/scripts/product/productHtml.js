@@ -9,7 +9,8 @@ const productHtml = (product) => {
     </div>
     <div> <strong> Price : ${product.price} </strong></div>
      <div> <strong> Quantity : ${product.qty} </strong> </div>
-    <div id ="reviews" class = "makeLink"> Reviews </div>`
+     <input type="hidden" id="productId" name="productId" value="${product.id}">
+    <div class ="reviews makeLink"> Reviews </div>`
 }
 
 export default productHtml

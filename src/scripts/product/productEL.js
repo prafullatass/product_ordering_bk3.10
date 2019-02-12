@@ -1,5 +1,6 @@
 import dataManager from "../utilities/dataManager";
 import productHtml from "./productHtml";
+import reviewsEl from "../reviews/reviewsEL";
 
 // EL on article
 //if is clicked on section then get product id from section id
@@ -14,9 +15,9 @@ const productEL = () => {
         console.log(targetIdArray)
         dataManager.getSingleProduct("products", targetIdArray)
             .then(product => {
-                console.log(product)
                 productHtml(product)
-                })
+                reviewsEl()
+            })
     })
 }
 
