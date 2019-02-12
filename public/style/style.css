@@ -1,0 +1,40 @@
+#container  {
+    display: flex;
+}
+
+.product_list {
+    width: 30%;
+    border: 1px solid black;
+    padding:10px;
+}
+
+.product_info {
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+img {
+    flex-direction: column;
+    height :30%;
+    width : 30%;
+    padding: 5px;
+}
+
+#imageDesc {
+    display: flex;
+    padding: 10px;
+}
+
+.makeLink {
+    color: blue;
+    text-decoration: underline;
+}
+
+.makeLink:hover {
+    cursor: pointer;
+    font-size: 20px;
+}
+

@@ -1,0 +1,42 @@
+{
+    "products" : [
+        {
+            "id" : 1,
+            "title" : "Snickers",
+            "description" : "Chocolate",
+            "price" : 100,
+            "qty" : 2,
+            "image" : "https://cdn.shopify.com/s/files/1/0972/7116/products/snickers-candy-bar.png?v=1459346193"
+        },
+        {
+            "id" : 2,
+            "title" : "Hershey's",
+            "description" : "Chocolate",
+            "price" : 100,
+            "qty" : 2,
+            "image" : "https://cdn.shopify.com/s/files/1/0004/8132/9204/products/hersheys-special-dark3_1024x1024.jpg?v=1522355788"
+        }
+    ],
+    "reviews" : [
+        {
+            "id" : 1,
+            "productId" : 1,
+            "review" : "Lorem ipsum dolor amet taiyaki chartreuse affogato tumeric YOLO, fashion axe migas marfa live-edge. Four loko iPhone tumblr, try-hard messenger bag edison bulb church-key bitters air plant flannel iceland fixie VHS lomo microdosing. Kitsch heirloom narwhal church-key godard. Enamel pin yr listicle tumblr raw denim poutine hella vice. Enamel pin PBR&B cliche activated charcoal before they sold out iceland. Ethical health goth narwhal gastropub, iPhone vinyl irony tilde vaporware banjo. Freegan literally copper mug swag, etsy vaporware woke keffiyeh before they sold out aesthetic palo santo hell of celiac DIY franzen."
+        },
+        {
+            "id" : 2,
+            "productId" : 1,
+            "review" : "Lorem ipsum dolor amet taiyaki chartreuse affogato tumeric YOLO, fashion axe migas marfa live-edge. Four loko iPhone tumblr, try-hard messenger bag edison bulb church-key bitters air plant flannel iceland fixie VHS lomo microdosing. Kitsch heirloom narwhal church-key godard. Enamel pin yr listicle tumblr raw denim poutine hella vice. Enamel pin PBR&B cliche activated charcoal before they sold out iceland. Ethical health goth narwhal gastropub, iPhone vinyl irony tilde vaporware banjo. Freegan literally copper mug swag, etsy vaporware woke keffiyeh before they sold out aesthetic palo santo hell of celiac DIY franzen."
+        },
+        {
+            "id" : 3,
+            "productId" : 1,
+            "review" : "Lorem ipsum dolor amet taiyaki chartreuse affogato tumeric YOLO, fashion axe migas marfa live-edge. Four loko iPhone tumblr, try-hard messenger bag edison bulb church-key bitters air plant flannel iceland fixie VHS lomo microdosing. Kitsch heirloom narwhal church-key godard. Enamel pin yr listicle tumblr raw denim poutine hella vice. Enamel pin PBR&B cliche activated charcoal before they sold out iceland. Ethical health goth narwhal gastropub, iPhone vinyl irony tilde vaporware banjo. Freegan literally copper mug swag, etsy vaporware woke keffiyeh before they sold out aesthetic palo santo hell of celiac DIY franzen."
+        },
+        {
+            "id" : 4,
+            "productId" : 1,
+            "review" : "Lorem ipsum dolor amet taiyaki chartreuse affogato tumeric YOLO, fashion axe migas marfa live-edge. Four loko iPhone tumblr, try-hard messenger bag edison bulb church-key bitters air plant flannel iceland fixie VHS lomo microdosing. Kitsch heirloom narwhal church-key godard. Enamel pin yr listicle tumblr raw denim poutine hella vice. Enamel pin PBR&B cliche activated charcoal before they sold out iceland. Ethical health goth narwhal gastropub, iPhone vinyl irony tilde vaporware banjo. Freegan literally copper mug swag, etsy vaporware woke keffiyeh before they sold out aesthetic palo santo hell of celiac DIY franzen."
+        }
+    ]
+}
